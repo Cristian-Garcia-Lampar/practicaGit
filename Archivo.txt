@@ -6,3 +6,5 @@ numero1 = reader.nextInt();
  
 System.out.println("Introduce el segundo número:");
 numero2 = reader.nextInt();
+
+System.out.println(numero2 - numero 1);
